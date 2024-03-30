@@ -1,0 +1,8 @@
+eggs = ('hello',42,0.5)
+print (eggs[0])
+print(eggs[1:3])
+print(eggs[0:2])
+print(eggs[ :3])
+print(eggs[2: ])
+print()
+print(len(eggs))
